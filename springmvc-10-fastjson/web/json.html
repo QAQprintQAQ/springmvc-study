@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <script>
+
+<!--        js对象-->
+            var  jsuser={
+                name: "liwenli",
+                age: 20,
+                sex: "man"
+
+            }
+    //        打印js对象
+       console.log("======js对象=======")
+    console.log(jsuser)
+
+    //转换为json对象
+        var jsonuser = JSON.stringify(jsuser)
+        console.log("======json字符串======")
+    console.log(jsonuser)
+
+console.log("======json转化的js对象=======")
+
+var jsuser2 = JSON.parse(jsonuser)
+     console.log(jsuser2)
+
+    </script>
+</body>
+</html>
