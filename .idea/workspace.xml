@@ -22,6 +22,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="2" />
   </component>
@@ -40,6 +43,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1iXuJcH0wGDcOcGgq5UVgJcCIb3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -173,6 +177,7 @@
       <workItem from="1602147251292" duration="2179000" />
       <workItem from="1602197693379" duration="15162000" />
       <workItem from="1602225588556" duration="33387000" />
+      <workItem from="1603971793944" duration="326000" />
     </task>
     <servers />
   </component>
